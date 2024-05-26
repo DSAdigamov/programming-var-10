@@ -1,0 +1,49 @@
+[
+  {
+    "name": "shop-1",
+    "items": [
+      {
+        "name": "item-1",
+        "price": 200
+      },
+      {
+        "name": "item-2",
+        "price": 100
+      },
+      {
+        "name": "item-3",
+        "price": 50
+      },
+      {
+        "name": "item-4",
+        "price": 50
+      },
+      {
+        "name": "item-5",
+        "price": 235
+      }
+    ]
+  },
+  {
+    "name": "shop-2",
+    "items": [
+      {
+        "name": "item-1",
+        "price": 410
+      },
+      {
+        "name": "item-2",
+        "price": 100
+      },
+      {
+        "name": "item-3",
+        "price": 600
+      },
+      {
+        "name": "item-4",
+        "price": 220
+      }
+
+    ]
+  }
+]
